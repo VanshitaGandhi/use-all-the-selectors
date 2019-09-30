@@ -30,11 +30,11 @@ nav > ul {
   color: #fff;
 }
 
-a:.not (.no-highlight){
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-.no-highlight:last-of-type(2) {
+[rel="external"] {
   background-color: #2694d8;
 }
 
